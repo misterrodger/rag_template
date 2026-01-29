@@ -1,0 +1,14 @@
+{
+  "cSpell.words": [
+    "addopts",
+    "chunker",
+    "dotenv",
+    "faiss",
+    "langchain",
+    "numpy",
+    "pydantic",
+    "pytest",
+    "testpaths",
+    "voyageai"
+  ]
+}

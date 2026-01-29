@@ -3,6 +3,7 @@
     "addopts",
     "chunker",
     "dotenv",
+    "embedder",
     "faiss",
     "langchain",
     "numpy",

@@ -7,8 +7,8 @@ from typing import Any
 load_dotenv()
 
 class Config(BaseModel):
-  voyageai_api_key: str = os.environ.get('VOYAGE_API_KEY', '')
-  embedding_model: str = "voyage-4-lite"
+  openai_api_key: str = os.environ.get('OPENAI_API_KEY', '')
+  embedding_model: str = "text-embedding-3-small"
   chat_model: str = "gpt-4o-mini"
 
   chunk_size: int = 1000

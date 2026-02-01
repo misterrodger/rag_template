@@ -1,0 +1,15 @@
+Python Programming Basics
+
+Python is a versatile and powerful programming language that has gained immense popularity in recent years. It is widely used for web development, data analysis, artificial intelligence, scientific computing, and automation. Python's clean and readable syntax makes it an excellent choice for beginners while remaining powerful enough for experienced developers.
+
+Variables and Data Types
+
+Python supports various data types including integers, floats, strings, and booleans. Variables are dynamically typed, meaning you don't need to declare their type explicitly. The interpreter automatically determines the type based on the assigned value. This flexibility makes Python code more concise and easier to write.
+
+Control Flow and Functions
+
+Control flow in Python is managed through if-else statements, loops, and function definitions. Functions are defined using the def keyword and can accept parameters and return values. Python also supports lambda functions for simple, one-line operations. List comprehensions provide a concise way to create lists based on existing sequences.
+
+Object-Oriented Programming
+
+Python fully supports object-oriented programming with classes and inheritance. You can define classes with attributes and methods, create instances, and build complex hierarchies. This paradigm helps organize code into reusable and maintainable components.
